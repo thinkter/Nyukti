@@ -1,0 +1,32 @@
+[
+    {
+        "Important Topic": "Laplace Transform of Periodic Functions",
+        "Previous Year Question": "Find the Laplace transform of the periodic function: f(t) = 1, 0 < t < 1, 1 < t < 2 with period 2 (from 2023-2024 paper)",
+        "Current Year Question": "Evaluate the Laplace transform of the periodic function: f(t) = {1, 0 < t < 1, 1 < t < 2} with period 2 (from 2024-2025 paper)"
+    },
+    {
+        "Important Topic": "Convolution Theorem",
+        "Previous Year Question": "Find the inverse Laplace transform using the convolution theorem for: F(s) = s/[(s^2 + 4)(s^2 + 16)] (from 2023-2024 paper)",
+        "Current Year Question": "Evaluate the inverse Laplace transform using the convolution theorem for F(s) = s/[(s^2 + 4)(s^2 + 16)] (from 2024-2025 paper)"
+    },
+    {
+        "Important Topic": "Initial Value Problems and Differential Equations",
+        "Previous Year Question": "Solve the differential equation: y'' + 3y' + 2y = g(t), where g(t) is a step function (from 2023-2024 paper)",
+        "Current Year Question": "Solve the differential equation: y'' + 4y' + 4y = e^{-2t}, with initial conditions y(0) = 1, y'(0) = 0 (from 2024-2025 paper)"
+    },
+    {
+        "Important Topic": "Fourier Series",
+        "Previous Year Question": "Find the Fourier series of the half-wave rectified signal: f(x) = {0, -\u03c0 < x \u2264 0, x/3, 0 < x \u2264 \u03c0} (from 2023-2024 paper)",
+        "Current Year Question": "Expand the Fourier series of: f(x) = {1/2 + x, -1 \u2264 x \u2264 0, 1/2 - x, 0 \u2264 x \u2264 1} (from 2024-2025 paper)"
+    },
+    {
+        "Important Topic": "Half-Range Fourier Series",
+        "Previous Year Question": "Find the half-range Fourier cosine series for f(x) = x(2 - x), 0 \u2264 x \u2264 1 (from 2023-2024 paper)",
+        "Current Year Question": "Find the half-range Fourier cosine series for f(x) = e^{-x}, 0 \u2264 x \u2264 \u03c0 (from 2024-2025 paper)"
+    },
+    {
+        "Important Topic": "Laplace Transforms and Integrals",
+        "Previous Year Question": "Evaluate the integral: \u222b e^{-3t} sin^2(2t)/t dt using Laplace transforms (from 2023-2024 paper)",
+        "Current Year Question": "Using Laplace transform, evaluate: \u222b e^{-3t} sin^2(2t)/t dt (from 2024-2025 paper)"
+    }
+]
