@@ -1,0 +1,22 @@
+Topic,Past Year Paper Question,Current Year Paper Question
+Dynamic Memory Allocation,"Write a C program to process student details using pointers that includes dynamic memory allocation, checking memory allocation success, and printing details.",Dynamically allocate memory for storing customer bill amounts and calculate total earnings by end of the day.
+Structures and Pointers,"Create a C program using structures to process student details, including dynamic memory allocation and validation.",Implement a BankAccount class with external functions to update balance and perform deposit/penalty operations.
+Function Overloading,Write a C++ program demonstrating function overloading and its use in multiple function definitions.,Write a program demonstrating function overriding and how base class methods can be explicitly called.
+Constructor Initialization,"Implement a C++ program to initialize class members using constructors, and show default initialization.",Demonstrate constructor initialization with default and parameterized constructors in C++.
+Function Overriding,Write a program showing function overriding in derived classes and calling base class functions explicitly.,Write a program showing function overriding and calling base class functions explicitly.
+Inheritance,Create a base class and derived class in C++ to demonstrate inheritance.,Design a class for inheritance and use constructors to initialize data members in base and derived classes.
+Static vs Non-Static Functions,Write a C++ program to compare static and non-static member functions.,Explain static and non-static functions with examples.
+Array of Structures,"Write a program to manage student records using an array of structures, with sorting and display functionalities.","Create a program to manage student records, including sorting and displaying student details."
+Class with Methods and Attributes,"Design a class in C++ with methods for setting and getting data for length, width, and area.","Create a class to handle rectangle data (length, width) and calculate its area."
+Object Creation and Deletion,Write a C++ program to demonstrate how dynamically created objects are deleted automatically by the compiler.,Write a C++ program to demonstrate automatic deletion of dynamically created objects.
+File Handling in C++,"Write a C++ program that handles files, including reading and writing operations.",Create a C++ program to read and write files using file handling techniques.
+Sorting and Searching,Write a program to sort and search elements using arrays and structures.,Write a program for sorting and searching with arrays of structures.
+Data Member Visibility (Private/Public),"Create a class with private and public data members, demonstrating encapsulation.",Create classes to manage student details and show private/public member access.
+Classes and Objects,Implement classes and objects in C++ to show object creation and method invocation.,"Write a program to demonstrate class creation, object instantiation, and method usage."
+Virtual Functions,Create a C++ program demonstrating the use of virtual functions in base and derived classes.,Implement a program using virtual functions to demonstrate dynamic method invocation.
+Access Specifiers (Private/Protected/Public),Explain how access specifiers work in class inheritance with examples.,Explain access specifiers and their use in inheritance.
+Array of Structures for Student Records,Write a C program to manage student records using structures and perform sorting by name.,Write a program to sort and manage student records using structures.
+Use of Constructors (Parameterized and Default),Create a class with both parameterized and default constructors and show usage with objects.,Create a class in C++ to demonstrate constructor overloading.
+Inheritance and Multiple Classes,Create a C++ program with multiple derived classes and demonstrate inheritance between them.,Demonstrate inheritance in a C++ program with multiple derived classes.
+Pointer Usage in C/C++,Write a program using pointers in C or C++ to manipulate memory directly.,Write a program using pointers in C or C++ to manage memory effectively.
+Student Record Management with Sorting,Write a program using an array of structures to store student details and display sorted data.,Create an array of structures to manage student records and display sorted information.

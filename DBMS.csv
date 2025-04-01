@@ -1,0 +1,8 @@
+Important Topic,A question from previous year papers,A question from current year papers
+Relational Database Design,"Check if the FD sets (FD1 = {A → B, B → C, A → C}) and (FD2 = {A → B, B → C, A → D}) are equivalent.","Check (R1) and (R2) for BCNF. If not in BCNF, convert them into BCNF. (R1: elevator_no, building_no, capacity, building_name; R2: elevator_no, building_no, capacity)"
+Normalization,"Normalize the relation Shipping (ShipName, ShipType, VoyageID, Cargo, Port, Date) to BCNF.","Normalize the employee table to 3NF (EMP_ID, NAME, JOB CODE, JOB, STATE CODE, HOME STATE, MAIL-ID)."
+Functional Dependencies,"Find the minimal cover for the given set of FDs in relation R(A, B, C, D, E).","Find the functional dependencies for the given relations and their closures."
+Relational Algebra,"Find (sid)s of suppliers who supply a red part at $22, Packer Street.","Write a query in relational algebra to find cricket players with runs ≥50."
+Indexing,"Illustrate dense and sparse index for the given specification.","Implement open hashing with linear, quadratic, and double hashing methods for values {3, 2, 13, 18, 11, 6, 73}."
+Transaction Processing,"Find the conflict serializability of a schedule using a precedence graph.","Draw the precedence graph for the schedule of 4 transactions: W3(B), R1(C), W4(B), W4(A), R1(A), W3(C), W2(A), R2(D), W2(B), R3(D)."
+Query Optimization,"Optimize the query for finding the optimal query tree for SQL query involving Project and Department.","Find the optimal query tree for the SQL query: SELECT P.Pnumber, P.Dnum, D.Address FROM Project AS P, Department AS D WHERE P.Dnum = D.Dnumber AND D.Location = 'SJT' AND D.Name = 'CSE'."
